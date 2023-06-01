@@ -23,7 +23,7 @@ export default function Contact() {
 
       {/*Google map*/}
       <div id="map-container-google-3" className="z-depth-1-half map-container-3">
-        <iframe src="https://maps.google.com/maps?q=warsaw&t=k&z=13&ie=UTF8&iwloc=&output=embed"
+        <iframe title='this is map' src="https://maps.google.com/maps?q=warsaw&t=k&z=13&ie=UTF8&iwloc=&output=embed"
           frameBorder={0} style={{ border: 0 }} allowFullScreen="" />
       </div>
     </>
